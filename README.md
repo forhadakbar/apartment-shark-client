@@ -2,7 +2,7 @@
 
 A responsive Apartment Rental Service web application
 
-[Live Preview]() | [Live API Server](https://rocky-shelf-02632.herokuapp.com/)
+[Live Preview](https://apartment-shark.web.app/) | [Live API Server](https://rocky-shelf-02632.herokuapp.com/)
 
 ## Feature
 
@@ -13,6 +13,11 @@ A responsive Apartment Rental Service web application
 - Sign in is required to request booking for any apartment or to view client dashboard with services status.
 - Logged in client will see a button named "Dashboard", where they can view the booking list they requested.
 - If Admin is logged in, admin will see a button named "Admin".
+- Admin will be able to change status of a booking using drop down menu.
+- You will be able to make a new account if you don't have one using our sign in page.
+- You will be able to see your booking in the dashboard after sign in.
+- The website is fully responsive for phone and desktop device.
+- This web app will help you to book your next apartment.
 
 Note: Only admin user have ability to view admin dashboard.
 
